@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180">
+  <rect x="60" y="60" width="40" height="80" fill="#81a1c1" />
+  <rect x="140" y="80" width="40" height="60" fill="#a3be8c" />
+  <text x="60" y="155" font-size="12" fill="#2e3440">QGNN</text>
+  <text x="140" y="155" font-size="12" fill="#2e3440">Classical</text>
+  <text x="20" y="30" font-size="14" fill="#2e3440">Accuracy comparison</text>
+</svg>
