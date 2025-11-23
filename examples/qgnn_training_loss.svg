@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180">
+  <polyline points="20,140 120,90 220,60" fill="none" stroke="#5e81ac" stroke-width="3" />
+  <polyline points="20,150 120,110 220,80" fill="none" stroke="#a3be8c" stroke-width="3" />
+  <text x="20" y="30" font-size="14" fill="#2e3440">Training loss</text>
+  <text x="130" y="75" font-size="12" fill="#5e81ac">QGNN</text>
+  <text x="130" y="95" font-size="12" fill="#a3be8c">Classical</text>
+</svg>
